@@ -1,0 +1,22 @@
+/* CSS Styles for Recipes */
+
+h1 {
+    color: #8a2be2;
+}
+
+h2 {
+    color:#00ffff;
+}
+
+.ingred {
+    font-style: italic;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
+
+#vital {
+    font-weight: 900;
+}
