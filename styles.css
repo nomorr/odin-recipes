@@ -8,13 +8,20 @@ h2 {
     color:#00ffff;
 }
 
+div {
+    display:inline-block;
+    padding: 3px;
+}
+
 .ingred {
     font-style: italic;
+    text-align: center;
 }
 
 img{
     height: 300px;
     width: auto;
+    margin: 10px;
 }
 
 #vital {
